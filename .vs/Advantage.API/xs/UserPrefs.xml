@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{D788938B-D8D7-4CFF-87AA-089486123A34}|Default">
+  <MonoDevelop.Ide.ItemProperties.Advantage.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Model/DriverMessage.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="70" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="DataSeed.cs" Line="24" Column="1" />
+      <File FileName="Helper.cs" />
+      <File FileName="Program.cs" Line="11" Column="2" />
+      <File FileName="Model/ApiContext.cs" />
+      <File FileName="Advantage.API.csproj" Line="33" Column="1" />
+      <File FileName="Controllers/AccountController.cs" Line="23" Column="35" />
+      <File FileName="Model/Account.cs" Line="10" Column="2" />
+      <File FileName="Controllers/TripController.cs" Line="13" Column="32" />
+      <File FileName="PaginatedResponse.cs" Line="19" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="23" Column="34" />
+      <File FileName="Controllers/DriverController.cs" Line="42" Column="6" />
+      <File FileName="Model/DriverMessage.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Advantage.API" expanded="True">
+            <Node name="Advantage.API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="DriverMessage.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/DataSeed.cs" relfile="DataSeed.cs" line="86" column="1" />
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/DataSeed.cs" relfile="DataSeed.cs" line="48" column="1" />
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/DataSeed.cs" relfile="DataSeed.cs" line="110" column="1" />
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/DataSeed.cs" relfile="DataSeed.cs" line="58" column="1" />
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/DataSeed.cs" relfile="DataSeed.cs" line="128" column="1" />
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/DataSeed.cs" relfile="DataSeed.cs" line="68" column="1" />
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/Controllers/TestController.cs" relfile="Controllers/TestController.cs" line="13" column="1" />
+      <Breakpoint file="/Users/nalbella/Projects/Angular10/Advantage.API/Controllers/TestController.cs" relfile="Controllers/TestController.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
